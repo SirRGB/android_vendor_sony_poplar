@@ -333,10 +333,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/poplar/proprietary/vendor/sony/touch/images/splash.png:$(TARGET_COPY_OUT_VENDOR)/sony/touch/images/splash.png
 
 PRODUCT_PACKAGES += \
-    libqmi_cci_system \
-    libsensor1 \
-    libsensor_reg \
-    libsensor_test \
     com.qualcomm.qti.ant@1.0 \
     android.hardware.bluetooth@1.0-impl-qti \
     android.hardware.keymaster@3.0-impl-qti \
