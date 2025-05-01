@@ -360,7 +360,6 @@ PRODUCT_PACKAGES += \
     libtime_genoff \
     libvpplibrary \
     libwvhidl \
-    libwvtee \
     vendor.semc.hardware.light@1.0 \
     vendor.semc.system.idd@1.0 \
     libexcal_ckb_service_plugin \
@@ -469,7 +468,6 @@ PRODUCT_PACKAGES += \
     libthermalclient \
     libthermalioctl \
     libtpm \
-    libwvdrmengine \
     sensor_calibrate \
     sensors.finger-pickup \
     sensors.ssc \
