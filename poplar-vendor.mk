@@ -339,14 +339,7 @@ PRODUCT_PACKAGES += \
     com.qualcomm.qti.ant@1.0-impl \
     lights.default \
     touch_cover \
-    libOmxAacDec \
-    libOmxAlacDec \
-    libOmxAmrDec \
-    libOmxAmrwbplusDec \
-    libOmxApeDec \
-    libOmxG711Dec \
     libOmxVpp \
-    libOmxWmaDec \
     libbtnv \
     libhdcprx_module \
     libhdcptx_module \
